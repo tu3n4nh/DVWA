@@ -45,3 +45,4 @@ $page[ 'body' ] .= "
 dvwaHtmlEcho( $page );
 
 ?>
+<!-- test -->
